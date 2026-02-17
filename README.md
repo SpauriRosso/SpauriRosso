@@ -27,7 +27,7 @@
 </div>
 
 <br/>
-
+<!---
 <details>
 <summary><strong>More about me</strong></summary>
 
@@ -50,3 +50,4 @@ Passionate about distributed systems, developer experience, and the open-source 
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
+-->
